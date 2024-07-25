@@ -19,4 +19,12 @@ Machine learning projects featuring models and algorithms for model evaluation, 
 
 [Click for Kaggle](https://www.kaggle.com/code/msjahid/iris-diversity-analysis-modeling-prediction)
 
+## 3. Exploring Laptop Price Trends
+
+💻 Dive into the trends of laptop prices with this detailed analysis. This project investigates various factors affecting laptop prices, including processor speed, RAM size, storage capacity, screen size, and weight.
+
+[View Repository](https://github.com/msjahid/Data_Science_Projects/tree/main/laptop_price)
+
+[Click for Kaggle](https://www.kaggle.com/code/msjahid/exploring-laptop-price-trends)
+
 Feel free to explore these projects to gain insights into different data science applications.
