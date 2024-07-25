@@ -11,4 +11,12 @@ Machine learning projects featuring models and algorithms for model evaluation, 
 
 [Click for Kaggle](https://www.kaggle.com/code/msjahid/loan-status-analysis-exploring-approval-patterns)
 
+## 2. Iris Diversity: Analysis, Modeling, Prediction
+
+🌸 Dive into the world of Iris flowers with this comprehensive analysis. This project explores the Iris dataset to understand the diversity among different Iris species, develop predictive models, and evaluate their performance.
+
+[View Repository](https://github.com/msjahid/Data_Science_Projects/tree/main/iris_prediction)
+
+[Click for Kaggle](https://www.kaggle.com/code/msjahid/iris-diversity-analysis-modeling-prediction)
+
 Feel free to explore these projects to gain insights into different data science applications.
