@@ -27,4 +27,12 @@ Machine learning projects featuring models and algorithms for model evaluation, 
 
 [Click for Kaggle](https://www.kaggle.com/code/msjahid/exploring-laptop-price-trends)
 
+## 4. Diabetes Risk Analysis Pima Indians Exploration
+
+🩸 Explore the factors influencing diabetes risk with this comprehensive analysis of the Pima Indians Diabetes dataset. This project investigates various attributes related to diabetes risk and uses machine learning models to predict diabetes status.
+
+[View Repository](https://github.com/msjahid/Data_Science_Projects/tree/main/Diabetes-Risk-Analysis)
+
+[Click for Kaggle](https://www.kaggle.com/code/msjahid/diabetes-risk-analysis-pima-indians-exploration)
+
 Feel free to explore these projects to gain insights into different data science applications.
