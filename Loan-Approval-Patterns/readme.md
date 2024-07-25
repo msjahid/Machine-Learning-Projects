@@ -98,7 +98,7 @@ The dataset comprises 381 rows and 13 columns, each representing different attri
 
 ## How to Use This Repository
 
-1. **Clone the Repository**: `git clone https://github.com/yourusername/Loan-Status-Analysis.git`
+1. **Clone the Repository**: `git clone https://github.com/msjahid/Loan-Status-Analysis.git`
 2. **Navigate to the Project Directory**: `cd Loan-Status-Analysis`
 3. **Explore the Data**: The dataset is available in the `data` folder. Load and explore it using your preferred data analysis tools.
 4. **Run the Analysis**: Use the provided Jupyter notebooks to perform analyses and visualize the findings.
