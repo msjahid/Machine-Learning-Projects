@@ -54,6 +54,7 @@ The dataset comprises 381 rows and 13 columns, each representing different attri
 ### Step 4 | Exploratory Data Analysis
 
 4.1 | Individual Variables Analysis
+
 4.2 | Data Outlier Identification
 4.3 | Handling Data Outliers
 4.4 | Pairs of Variables Insights
