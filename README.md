@@ -15,7 +15,7 @@ Machine learning projects featuring models and algorithms for model evaluation, 
 
 🌸 Dive into the world of Iris flowers with this comprehensive analysis. This project explores the Iris dataset to understand the diversity among different Iris species, develop predictive models, and evaluate their performance.
 
-[View Repository](https://github.com/msjahid/Data_Science_Projects/tree/main/iris_prediction)
+[View Repository](https://github.com/msjahid/Machine-Learning-Projects/tree/main/iris_prediction)
 
 [Click for Kaggle](https://www.kaggle.com/code/msjahid/iris-diversity-analysis-modeling-prediction)
 
