@@ -36,19 +36,25 @@ The dataset comprises 381 rows and 13 columns, each representing different attri
 ### Step 1 | Python Libraries
 
 1.1 | Import Libraries
+
 1.2 | Library configurations
 
 ### Step 2 | Preparing the Dataset
 
 2.1 | Loading Data
+
 2.2 | Data Information
+
 2.3 | Attribute Overview
 
 ### Step 3 | Data Preprocessing
 
 3.1 | Columns Formatting
+
 3.2 | Missing Value Handling Strategies
+
 3.3 | Duplicate Value Management Techniques
+
 3.4 | Statistical Data Summary
 
 ### Step 4 | Exploratory Data Analysis
@@ -56,25 +62,37 @@ The dataset comprises 381 rows and 13 columns, each representing different attri
 4.1 | Individual Variables Analysis
 
 4.2 | Data Outlier Identification
+
 4.3 | Handling Data Outliers
+
 4.4 | Pairs of Variables Insights
+
 4.5 | Multiple Variables Examination
 
 ### Step 5 | Hypothesis Testing
 
 5.1 | Hypothesis Testing with Chi-squared test
+
 5.2 | Hypothesis Testing with Z-test
 
 ### Step 6 | Model Development & Evaluation
 
 6.1 | Data Normalization
+
 6.2 | Feature Encoding
+
 6.3 | Feature Selection
+
 6.4 | Model Preparing
+
 6.5 | KNeighborsClassifier
+
 6.6 | DecisionTreeClassifier
+
 6.7 | Gaussian Naïve Bayes
+
 6.8 | RandomForestClassifier
+
 6.9 | Best Model Result
 ![Multiple Variables Examination](loan_charts/Best%20Model%20Result.png)
 
