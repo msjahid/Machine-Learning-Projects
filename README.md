@@ -23,7 +23,7 @@ Machine learning projects featuring models and algorithms for model evaluation, 
 
 💻 Dive into the trends of laptop prices with this detailed analysis. This project investigates various factors affecting laptop prices, including processor speed, RAM size, storage capacity, screen size, and weight.
 
-[View Repository](https://github.com/msjahid/Data_Science_Projects/tree/main/laptop_price)
+[View Repository](https://github.com/msjahid/Machine-Learning-Projects/tree/main/laptop_price)
 
 [Click for Kaggle](https://www.kaggle.com/code/msjahid/exploring-laptop-price-trends)
 
